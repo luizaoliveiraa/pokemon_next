@@ -75,7 +75,7 @@ export default function Pokemon({ pokemon }) {
       </div>
       <p>
         <Link href="/" className={styles.btn}>
-           ↩️
+          ↩️
         </Link>
       </p>
     </div>
