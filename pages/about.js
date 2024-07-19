@@ -12,8 +12,6 @@ export default function About() {
         explorar informações sobre diferentes Pokémon. Utilizei o Next.js para
         renderização no lado do servidor e geração de páginas estáticas, React
         para construção da interface, CSS Modules para estilização. <br />
-        Vamos nos aventurar no mundo dos Pokémon com Next.js!
-        <br />
         <i>Gotta catch 'em all!</i>
       </p>
       <Image
